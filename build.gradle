@@ -15,7 +15,7 @@ allprojects {
 
     version = '1.0'
     ext {
-        appName = "ludum34"
+        appName = "jam"
         gdxVersion = '1.7.1'
         roboVMVersion = '1.9.0'
         box2DLightsVersion = '1.4'
