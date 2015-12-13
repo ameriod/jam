@@ -1,5 +1,7 @@
 package com.nordeck.jam.screens;
 
+import com.nordeck.jam.base.BaseScreen;
+
 /**
  * Initial menu screen
  * <p/>

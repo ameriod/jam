@@ -7,6 +7,7 @@ import com.nordeck.jam.GameInputProcessor;
 import com.nordeck.jam.GameRenderer;
 import com.nordeck.jam.GameWorld;
 import com.nordeck.jam.JamGame;
+import com.nordeck.jam.base.BaseScreen;
 import com.nordeck.jam.utils.Utils;
 
 /**

@@ -1,4 +1,4 @@
-package com.nordeck.jam.screens;
+package com.nordeck.jam.base;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
